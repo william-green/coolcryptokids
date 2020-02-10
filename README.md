@@ -1,1 +1,1 @@
-# coolcryptokids
+# sentimentCryptoAnalyzer
